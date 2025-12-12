@@ -118,19 +118,22 @@ Screenshots
 ![Home Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164035.png)
 
 ### NewBookRegister Page  
-![AddNewBook Page](https://raw.githubusercontent.com/yamini-kolli/TreeView_AI/main/signup.png)
+![AddNewBook Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164045.png)
+
+### Update Book Details
+![UpdateBookDetails Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164500.png)
 
 ### BookList page
-  ![BookList Page](https://raw.githubusercontent.com/yamini-kolli/TreeView_AI/main/dashboardpage.png)
+  ![BookList Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164513.png)
   
 
-  ![Mylist Page](https://github.com/yamini-kolli/TreeView_AI/blob/main/working_dashboard.png)
+  ![Mylist Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164531.png)
 
 ### Database 
-![Tree Session](https://raw.githubusercontent.com/yamini-kolli/TreeView_AI/main/TreeSessionpage.png)
+![Book database](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164716.png)
 
 
-![Tree Session](https://github.com/yamini-kolli/TreeView_AI/blob/main/working_TreeSession.png)
+![My Book List database ](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164731.png)
 
 
 
