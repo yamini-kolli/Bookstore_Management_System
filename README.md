@@ -135,6 +135,16 @@ Screenshots
 
 ![My Book List database ](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164731.png)
 
+## Running on Localhost
+
+👉 [http://localhost:1001/](http://localhost:1001/)
+👉 [http://localhost:1001/my_books](http://localhost:1001/my_books)
+👉 [http://localhost:1001/available_books](http://localhost:1001/available_books)
+👉 [http://localhost:1001/book_register](http://localhost:1001/book_register)
+👉 [http://localhost:1001/editBook/1](http://localhost:1001/editBook/1)
 
 
+❗ Important
+
+This link works only on your machine.
 
