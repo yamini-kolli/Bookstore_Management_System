@@ -115,7 +115,7 @@ Screenshots
   ## Screenshots
 
 ### Home Page  
-![Home Page](https://raw.githubusercontent.com/yamini-kolli/TreeView_AI/main/loginpage.png)
+![Home Page](https://github.com/yamini-kolli/Bookstore_Management_System/blob/main/Screenshot%202025-12-12%20164035.png)
 
 ### NewBookRegister Page  
 ![AddNewBook Page](https://raw.githubusercontent.com/yamini-kolli/TreeView_AI/main/signup.png)
